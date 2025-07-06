@@ -1,8 +1,9 @@
 {
-  "name": "lucy",
-  "displayName": "Lucy",
+  "name": "lucy-assistant",
+  "displayName": "Lucy-Assistant",
   "description": "An animated IDE companion that reacts to your coding journey, gamifies best practices, and motivates you as you work.",
   "version": "0.0.1",
+  "publisher": "Lucy-Publisher",
   "engines": {
     "vscode": "^1.101.0"
   },
